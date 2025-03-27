@@ -1,0 +1,2 @@
+# avr_artikulasjonstrener
+Artikulasjonstrener for AVR128DB48
