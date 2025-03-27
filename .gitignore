@@ -5,6 +5,7 @@ debug/
 nbproject/private/
 nbproject/Makefile-*
 nbproject/configurations.xml
+.generated
 *.elf
 *.hex
 *.cof
